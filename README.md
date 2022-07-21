@@ -13,3 +13,5 @@ We started with getting some initial libraries, then moved on to pre-processing 
 - Hyperparameter tuning
 - Models comparison
 
+# Concluding thoughts
+Base on the scores computed, Randomforest Regressor model seems to perform well as compared to the decision and k neighbors regressor models.
