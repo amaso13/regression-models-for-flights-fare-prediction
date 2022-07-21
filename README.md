@@ -5,7 +5,7 @@ We started with getting some initial libraries, then moved on to pre-processing 
 
 - Data pre-processing
 - Outlier detection
-- Feature engineer and selection
+- Feature engineering and selection
 - Model building
 - Hyperparameter tuning
 - Models comparison
